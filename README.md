@@ -34,11 +34,6 @@ git clone https://github.com/VVVI5HNU/security-headers.git
 cd security-headers
 ```
 
-2. (Optional) Install dependencies:
-```
-pip install -r requirements.txt
-```
-
 ---
 
 ## ▶️ Usage
