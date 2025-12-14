@@ -30,7 +30,7 @@ If a header is missing or misconfigured, the tool highlights it in the output.
 
 1. Clone the repository:
 ```
-git clone https://github.com/<your-username>/security-headers.git
+git clone https://github.com/VVVI5HNU/security-headers.git
 cd security-headers
 ```
 
